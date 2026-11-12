@@ -95,11 +95,6 @@ I have a mixed background: **Mechanical Engineering** (B.E.) and **Computer Scie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suren205&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suren205&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=suren205&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -122,9 +117,7 @@ open_to:
 
 ## 📫 Connect
 
-<!-- Add your links here, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-NAME)
--->
-- GitHub: [@suren205](https://github.com/suren205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-surendra--kumar--yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-kumar-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-suren205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suren205)
 
 <p align="center"><i>"Learn it, break it, fix it, write it down."</i></p>
