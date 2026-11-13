@@ -16,7 +16,7 @@
 
 ## 🙋 About Me
 
-I'm **Yadav Surendra Kumar** (Kumar), a researcher at **Kyoto Computer Gakuin (KCGI)** in Japan, and I'm training to become a **System Engineer**.
+I'm **Yadav Surendra Kumar**, a student at **The University Of Information (KCGI)** in Japan, and I'm training to become a **System Engineer**.
 
 I have a mixed background: **Mechanical Engineering** (B.E.) and **Computer Science & IT** (M.S. in CSIT). I like to understand how things work, then build them myself in a home lab.
 
