@@ -117,7 +117,7 @@ open_to:
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-surendra--kumar--yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-kumar-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-surendra--yadav--kyoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra-yadav-kyoto)
 [![GitHub](https://img.shields.io/badge/GitHub-suren205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suren205)
 
 <p align="center"><i>"Learn it, break it, fix it, write it down."</i></p>
