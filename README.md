@@ -20,7 +20,7 @@ I'm **Yadav Surendra Kumar**, a student at **The University Of Information (KCGI
 
 I have a mixed background: **Mechanical Engineering** (B.E.) and **Computer Science & IT** (M.S. in CSIT). I like to understand how things work, then build them myself in a home lab.
 
-- 🔭 Now: a **6-month System Engineer plan**: Linux ✅ → Windows Server & Active Directory 🔄 → Virtualization & Storage → AWS → Bash/Ansible → Portfolio
+- 🔭 Now: a **6-month System Engineer plan**: Linux ✅ → Windows Server & Active Directory ✅ → Virtualization & Storage 🔄 → AWS → Bash/Ansible → Portfolio
 - 🧪 Research: **CNN-based metal surface defect detection** (Master by Research)
 - 🖥️ Home lab: **Hyper-V** with a Windows Server 2025 Domain Controller and a Windows 11 client
 - 📝 I write down everything I learn, week by week, in [**linux-notes**](https://github.com/suren205/linux-notes)
@@ -56,12 +56,13 @@ I have a mixed background: **Mechanical Engineering** (B.E.) and **Computer Scie
 |---|---|
 | **Linux** | disks & LVM (`lvextend`), backups with `tar` / `rsync`, cron jobs, services with `systemctl` |
 | **Active Directory** | domain `kumar.local`, OUs, users, groups, password resets, disable/enable accounts |
-| **Automation** | PowerShell script that creates AD users from a CSV file (skips users that already exist) |
+| **Automation** | PowerShell script that creates AD users from a CSV file (skips users that already exist); AD user reports exported to CSV |
 | **Group Policy** | GPOs linked to OUs, `gpupdate /force`, `gpresult /r` |
 | **File shares** | Share + NTFS permissions, group-based access, least privilege |
 | **Networking** | DHCP scopes and options, DNS records (A, CNAME, PTR), reverse zones |
 | **Troubleshooting** | IP → gateway → DC → DNS → logs; fixed APIPA, wrong DNS and disabled-account tickets |
 | **Recovery** | AD Recycle Bin restore, Windows Server Backup and file restore |
+| **Storage** | Storage Spaces pool with a two-way mirror (RAID 1) on Windows Server |
 | **Real incident** | DC paused because the disk was full of checkpoints → found the cause, freed 99 GB, made new rules |
 
 ---
@@ -104,8 +105,8 @@ I have a mixed background: **Mechanical Engineering** (B.E.) and **Computer Scie
 
 ```yaml
 learning:
-  - Windows Server & Active Directory (Month 2)
-  - Virtualization & Storage (Month 3)
+  - Virtualization & Storage: RAID, Storage Spaces (Month 3, now)
+  - PowerShell reports & automation
   - AWS cloud (Month 4)
 building:
   - Hyper-V home lab (DC01 + CLIENT01)
